@@ -1,0 +1,3 @@
+# Teste de Desenvolvimento - Landing Pages
+
+Para estes projeto, utilizei o ClaudeAI, StichAI e o GitHub Copilot. As IAs auxiliaram principalmente na estruturação semântica do HTML, na geração de scripts de validação de formulários e na criação de textos fictícios (copywriting). Realizei ajustes manuais na responsividade do CSS e no refinamento do design system (cores e espaçamentos), pois as IAs frequentemente geravam layouts genéricos que não atendiam à hierarquia visual desejada para as seções de conversão.
